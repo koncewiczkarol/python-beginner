@@ -16,6 +16,3 @@ if x > 2:
         lista.append(suma_2_ostatnich())
 
 print(lista)
-    
-
-input("\n\n\t\t\t \\ Aby zakończyć \n\t\t\tnaciśnij 'enter' \\")
