@@ -1,3 +1,5 @@
+# Program returns You as many fibonacci numbers as You need
+
 x = int(input("How many fibonacci numbers You need? ")) #user input how many numbers
 lista = [] #list of numbers
 
