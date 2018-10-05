@@ -1,3 +1,5 @@
+# Program returns You random password made from letters, capital letters, numbers and symbols in the lenght You need
+
 dlugosc = int(input("How long (number of signs) password You need? "))
 
 # all of the signs used for making new password
